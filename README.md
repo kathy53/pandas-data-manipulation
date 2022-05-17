@@ -1,0 +1,3 @@
+# pandas-data-manipulation
+Here I am collecting my knowledge about Pandas and some new stuff relate to.
+I'm going to use a dataset from Kaggle:  https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
